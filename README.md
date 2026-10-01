@@ -17,7 +17,6 @@ This system takes a bitmap image as input and determines whether a human face is
 The output is a processed BMP image with skin pixels highlighted in red and the detected face region outlined in green, along with a terminal report showing exactly which features were found or why detection failed.
 ---
 ## Pipeline
-## Pipeline
 
 ```mermaid
 flowchart LR
