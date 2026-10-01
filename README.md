@@ -1,4 +1,3 @@
-# FPGA-face-recognition
 # FPGA-Based Human Face Detection System
 
 A Verilog HDL image processing system that detects human faces in images using RGB skin tone analysis and facial feature position detection. Designed for simulation with Icarus Verilog, with architecture suitable for synthesis onto real FPGA hardware.
